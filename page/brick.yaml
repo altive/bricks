@@ -1,7 +1,7 @@
 name: page
 description: A brick to create a new page in the Flutter app.
-
-version: 0.1.0+1
+repository: https://github.com/altive/bricks/tree/main/page
+version: 1.0.0
 
 environment:
   mason: ">=0.1.0-dev.26 <0.1.0"
