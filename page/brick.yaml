@@ -1,10 +1,10 @@
 name: page
 description: A brick to create a new page in the Flutter app.
 repository: https://github.com/altive/bricks/tree/main/page
-version: 1.0.0
+version: 1.1.2
 
 environment:
-  mason: ">=0.1.0-dev.26 <0.1.0"
+  mason: ">=0.1.0-dev.31 <0.1.0"
 
 # Variables specify dynamic values that your brick depends on.
 # Zero or more variables can be specified for a given brick.
