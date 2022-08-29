@@ -16,6 +16,11 @@ environment:
 #  * an optional prompt phrase used when asking for the variable
 #  * a list of values (enums only)
 vars:
+  path:
+    type: string
+    description: Directory path to page
+    default: ui/pages
+    prompt: What is the directory path to the page?
   name:
     type: string
     description: Page name
